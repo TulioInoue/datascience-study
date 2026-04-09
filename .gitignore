@@ -1,3 +1,6 @@
 datascienceenv/
 databases/
 models/
+
+*.keras
+*.h5
